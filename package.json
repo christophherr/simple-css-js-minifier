@@ -1,13 +1,21 @@
 {
-  "name": "base",
-  "version": "1.1.0",
-  "description": "Bootstrap 4 Beta Workflow",
+  "name": "simple-css-js-minifier",
+  "version": "1.0.0",
+  "description": "Simple CSS and JavaScript minifier",
   "main": "index.js",
   "scripts": {
     "start": "gulp"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https//github.com:christophherr/simple-css-js-minifier.git"
+  },
   "author": "Christoph Herr",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/christophherr/simple-css-js-minifier/issues"
+  },
+  "homepage": "https://github.com/christophherr/simple-css-js-minifier#readme",
   "dependencies": {},
   "devDependencies": {
     "gulp": "^3.9.1",
